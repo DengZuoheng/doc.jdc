@@ -79,7 +79,7 @@
                     
                     if(!programer.has_girlfriend())
                     {
-                        beauty = new Female();
+                        Female* beauty = new Female();
                         Blind_date(programer,beauty);
                     }
                     
@@ -123,6 +123,12 @@
     + 鼠绘和板绘能力
 - 产品设计
     + 
-       
+- 其他
+    + 1.你对JDC了解多少？
+    + 2.如果你加入之后发现你学到的跟你想学的有出入你改如何应对？
+    + 3.你觉得是自己自习重要还是别人来教比较重要？
+    + 4.你有没有跟别人合作完成一个任务的经历？如果有请简单介绍一下
+    + 5.有没有自学过什么课本以外的关于计算机的知识？（关于这一点如果他学过的话就根据他学的内容继续探讨两个问题）  
+   
 **参考**  
 \[1]:程序员能力矩阵.http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm
