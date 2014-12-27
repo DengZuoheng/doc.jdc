@@ -21,7 +21,7 @@
 - 组我吧(蟒营作品):
     + https://gitcafe.com/PythoniCamp/Takemeup
 - 邮泡(蟒营作品):
-    + https://gitcafe.com/PythoniCamp/Mailpop
+    + https://gitcafe.com/AnqurVanillapy/Mailpop
 - 乐帮帮(蟒营作品):
     + https://gitcafe.com/PythoniCamp/happyhelp
 - 电气信息学院院内图书馆:
